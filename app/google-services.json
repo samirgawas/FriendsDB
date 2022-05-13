@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447657256020",
+    "project_id": "friendsdb-d7a73",
+    "storage_bucket": "friendsdb-d7a73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447657256020:android:c4c7d8cf747ba4fb3879c1",
+        "android_client_info": {
+          "package_name": "com.samapps.friendsdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447657256020-pddh952cg3f8rm4rfef80ds1aikrqucu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwb6POdnOAETv6p9RL01E7-vKCyy5aVuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447657256020-pddh952cg3f8rm4rfef80ds1aikrqucu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

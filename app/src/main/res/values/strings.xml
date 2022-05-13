@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FriendsDB</string>
+    <string name="add_photo">Add Photo</string>
 </resources>
