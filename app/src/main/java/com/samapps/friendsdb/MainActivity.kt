@@ -19,9 +19,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         firebaseDatabase = FirebaseDatabase.getInstance()
-//        databaseReference = FirebaseDatabase.getInstance().getReference("FriendDB")
 
-        databaseReference = firebaseDatabase!!.reference.child("Users")
+        databaseReference = firebaseDatabase!!.reference.child("FriendDB")
 
         btn_add_friend.setOnClickListener {
 
